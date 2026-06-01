@@ -1,3 +1,4 @@
+# variable add
 # define AWS Region
 variable "region" {
   description = "This is aws region"
